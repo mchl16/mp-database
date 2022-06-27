@@ -6,3 +6,5 @@ The statement (in Polish) can be found in the `statement.pdf` file. The engine s
 - `ALTER TABLE t RENAME COLUMN a TO b`
 - `CROSS JOIN`
 - `NATURAL JOIN`
+
+The project can be run using the DrRacket IDE.
