@@ -3,6 +3,6 @@ This is a simple database engine I created in Racket for the "Methods of program
 The statement (in Polish) can be found in the `statement.pdf` file. The engine supports the following SQL queries:
 - `INSERT`
 - `SELECT a FROM t WHERE b`
-- `ALTER TABLE` (only column renaming)
+- `ALTER TABLE t RENAME COLUMN a TO b`
 - `CROSS JOIN`
 - `NATURAL JOIN`
